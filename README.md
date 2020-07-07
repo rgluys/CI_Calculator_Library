@@ -4,13 +4,13 @@ Basic continuous integration configuration example using CircleCI.  A simple cal
 # Calculator Library
 
 #####Basic math functions that accept 2 terms for add, subtract, multiply and divide:
-![demo](demo/CI_Calc_Lib_calculator.py.png)
+![CI_Calc_Lib_calculator](demo/CI_Calc_Lib_calculator.py.png)
 #####A true, positive test case for each function.  Unit tests used to demonstrate CircleCI integration:
-![demo](demo/CI_Calc_Lib_test_calculator.py.png)
+![CI_Calc_Lib_test_calculator](demo/CI_Calc_Lib_test_calculator.py.png)
 
 
 #####CircleCI configuration setup using Version 2.0.  Three step process in the pipeline which includes obtaining the repository from Github, installing the project dependencies and running the unit tests:
-![demo](demo/CI_Calc_Lib_config.yml.png)
+![CI_Calc_Lib_config](demo/CI_Calc_Lib_config.yml.png)
 
 # Sources
 CI/CD Tutorial: https://realpython.com/python-continuous-integration/
