@@ -1,6 +1,7 @@
 # Continuous Integration Configuration
 Basic continuous integration configuration example using CircleCI.  A simple calculator app with a handful of tests that build and run on CircleCI.
 
+[CircleCI Pipeline](https://app.circleci.com/pipelines/github/rgluys/CI_Calculator_Library)
 # Calculator Library
 
 #####Basic math functions that accept 2 terms for add, subtract, multiply and divide:
